@@ -35,3 +35,14 @@ Abbiamo controllato e le navicelle sono tute ok, possiamo prendere la meno capie
 **CONTROLLI NELLE ZONE GO-SCI E MON. TERRA IN CERCA DELLE CHIAVI*
 
 Tu e l’infermiere avete trovato le chiavi ma avete ancora bisogno di una terza persona per poter fuggire. Cosa? La porta per tornare indietro è chiusa! Ci sarà qualcuno che ci vuole sabotare!
+
+---
+
+## Mappa
+
+![mappa](./img/adv_map.png)
+
+- Il punto rosso rappresenta il punto di inizio della storia.
+- Le frecce verdi inidicano la presenza di porte.
+
+**N.B.: le frecce rappresentano solo la presenza di porte e NON la direzione**
