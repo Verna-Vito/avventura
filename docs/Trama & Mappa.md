@@ -48,6 +48,22 @@ _Avete TUTTO_. Ora possiamo partire e andarcene di qui!
 
 Mi sono appena ricordato che per poter partire serve l'approvazione da parte della Sala Monitoraggio Terra, uno di noi si dovrà sacrificare per permettere all'altro di slavarsi.
 
+### Ending 1
+
+**SI SACRIFICA L'INFERMIERA*
+
+_Sei partito con successo_. Poco dopo lo sgancio dall'Arca l'enorme roccia lunare impatta contro la Stazione Spaziale riducendola ad un cumulo di rottami metallici.
+Arrivato sulla Terra monitori il livello di radiazioni e scopri che la Terra è nuovamente abitabile.
+Il braccio non guarisce ancora, sembra si stia infettando. Magari l'infermiera avrebbe saputo aiutarmi...
+
+**THE END!*
+
+### Ending 2
+
+**DECIDETE DI RIMANERE ENTRAMBI SULL'ARCA E MORIRE INSIEME*
+
+**THE END!*
+
 ---
 
 ## Mappa
