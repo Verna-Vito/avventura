@@ -26,15 +26,27 @@ Cos’è stato quel boato? E perché le sirene stanno suonando? È tutto buio tr
 
 **COMPUTER RICHIEDE PASSWORD* `(Minigioco come in progress bar (quello del CMD con l’hex code), oppure gli facciamo cercare un badge di qualche dipendente della GO-SCI).`
 
-Sei riuscito ad accedere al pc. Guardando le registrazioni dei minuti precedenti delle telecamere di sicurezza ho scoperto che c’è stata un’esplosione nel Laboratorio che è stato chiuso ermeticamente dalle porte e il Deposito del Laboratorio è stato compromesso, purtroppo gli scienziati ed i dipendenti ai loro interni sono morti. A causa del danno subito sono rimasti solo 30 minuti di autonomia d’ossigeno devo trovare un modo per andarmene prima di morire qui... **Dipendente GO-SCI in fin di vita comunica con te.* Quel dipendente GO-SCI mi ha consegnato il suo badge e consigliato di usare una delle navicelle spaziali per scappare poiché un enorme ammasso di roccia lunare sta per entrare in rotta di collisione con l’Arca, ma purtroppo non posso pilotare la navicella da solo, bisogna essere almeno in tre. Mi sono appena accorto che sto sanguinando dal braccio, evidentemente avrò urtato qualcosa quando è saltata la corrente, mi conviene andare nella Zona Medica e trovare qualcosa per medicarmi questa ferita. `(Cerca qualcosa con cui medicarsi e si medica e upgrade di qualche punto nella barra salute).` Nella Zona Medica ho trovato un infermiere spaventato e ferito, lo aiuto a riprendersi dallo shock e gli dico che dobbiamo scappare dall’Arca, lui accetta di aiutarmi. Ora dobbiamo cercare solo una terza persona per poter fuggire da questo posto… Prima di partire andiamo a verificare le navicelle siano ancora utili alla fuga. 
+Sei riuscito ad accedere al pc. Guardando le registrazioni dei minuti precedenti delle telecamere di sicurezza ho scoperto che c’è stata un’esplosione nel Laboratorio che è stato chiuso ermeticamente dalle porte e il Deposito del Laboratorio è stato compromesso, purtroppo gli scienziati ed i dipendenti ai loro interni sono morti. A causa del danno subito sono rimasti solo 30 minuti di autonomia d’ossigeno devo trovare un modo per andarmene prima di morire qui... **Dipendente GO-SCI in fin di vita comunica con te.* Quel dipendente GO-SCI mi ha consegnato il suo badge e consigliato di usare una delle navicelle spaziali per scappare poiché un enorme ammasso di roccia lunare sta per entrare in rotta di collisione con l’Arca, ma purtroppo non posso pilotare la navicella da solo, bisogna essere almeno in due. Quando è andata via la corrente ho sbattuto contro qualcosa e ora sto sanguinando dal braccio, mi conviene andare nella Zona Medica e trovare qualcosa per medicarmi questa ferita. `(Cerca qualcosa con cui medicarsi e si medica e upgrade di qualche punto nella barra salute).` Nella Zona Medica ho trovato un'infermiera spaventata e ferita, la aiuto a riprendersi dallo shock e le dico che dobbiamo scappare dall’Arca, lei accetta di aiutarmi. Prima di partire andiamo a verificare che le navicelle siano ancora utili alla fuga. 
 
 **VI RECATE NELLA ZONA MONITORAGGIO TERRA E ZONA DI LANCIO*
 
-Abbiamo controllato e le navicelle sono tute ok, possiamo prendere la meno capiente in modo tale che se altra gente volesse fuggire potrebbe prendere le altre, abbiamo scoperto inoltre che servono due chiavi per avviare i motori di lancio della navicella. Dobbiamo trovarle!
+Abbiamo controllato e le navicelle, a livello meccanico, sono tutte ok ma mancano i rifornimenti vari, abbiamo scoperto inoltre che servono due chiavi per avviare i motori di lancio della navicella. Dobbiamo trovarle!
 
-**CONTROLLI NELLE ZONE GO-SCI E MON. TERRA IN CERCA DELLE CHIAVI*
+**CONTROLLATE NELLE ZONE GO-SCI E MON. TERRA IN CERCA DELLE CHIAVI*
 
-Tu e l’infermiere avete trovato le chiavi ma avete ancora bisogno di una terza persona per poter fuggire. Cosa? La porta per tornare indietro è chiusa! Ci sarà qualcuno che ci vuole sabotare!
+_Tu e l’infermiera avete trovato le chiavi_. Avete ancora bisogno di fare rifornimento, serve carburante per poter decollare, in più ci vorranno un paio di giorni per arrivare sulla Terra, avete bisogno di cibo e acqua, medicinali vari da portare sulla Terra, indumenti vari ed un contatore Geiger per valutare il livello di radiazioni.
+
+**CERCATE IN GIRO PER LE STANZE DELLA STAZIONE IN CERCA DI RIFORNIMENTI*
+
+_Avete tutto l'occorrente per poter partire_. Manca solo il contatore Geiger che hai trovato nei pressi del Laboratorio, c'è solo un problema è danneggiato. Ci servono un nuovo display ed una batteria.
+
+**VI RECATE NEL DEPOSITO GENERALE E NELLA SALA ELETTRICA E DI MANUTENZIONE IN CERCA DEGLI ULTIMI COMPONENTI*
+
+_Avete TUTTO_. Ora possiamo partire e andarcene di qui!
+
+**INSERITE LE CHIAVI DI AVVIO DEL MOTORE DELLA NAVICELLA* **FORTE ROMBO DI MOTORI* **COMPUTER DI BORDO CHE FA IL COUNTDOWN*
+
+Mi sono appena ricordato che per poter partire serve l'approvazione da parte della Sala Monitoraggio Terra, uno di noi si dovrà sacrificare per permettere all'altro di slavarsi.
 
 ---
 
